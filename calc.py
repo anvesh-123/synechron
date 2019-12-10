@@ -8,7 +8,7 @@ def subtract(x, y):
 
 def multiply(x, y):
     """multiply Function"""
-    return x * y
+    failed
 
 def divide(x, y):
     """divide Function"""
